@@ -1,5 +1,3 @@
-import React from "react";
-
 const Suvs = () => {
   return (
     <div className="bg-primary-dark-cyan text-primary-dark-cyan w-[370px] h-auto flex flex-col items-left justify-center px-16 pt-10">

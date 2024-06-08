@@ -1,5 +1,3 @@
-import React from "react";
-
 const Sedans = () => {
   return (
     <div className="bg-primary-bright-orange w-[370px] flex flex-col justify-center px-16 pt-10 hidden:rounded-l-xl xl:rounded-l-xl">

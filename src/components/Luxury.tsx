@@ -1,5 +1,3 @@
-import React from "react";
-
 const Luxury = () => {
   return (
     <div className="bg-primary-very-dark-cyan text-pribg-primary-very-dark-cyan w-[370px] flex flex-col items-left justify-center px-16 pt-10 hidden:rounded-r-xl xl:rounded-r-xl">
